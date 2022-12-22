@@ -4,6 +4,8 @@ public class StringCalculator
 {
     public int Add(string number, string delimiter = ",", List<string> delimiterList = null)
     {
+
+
         var result = 0;
         var negativeStringNumber = new List<string>();
         if (number == "")
