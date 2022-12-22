@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=434fe549_002D9244_002D4202_002Dbf54_002D85979e87eef0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from StringCalculatorTest.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;3A5E30B8-2C84-471C-9E66-B7F504FC6325/f:StringCalculatorTest.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5afde9de_002Da22c_002D4357_002Dafcb_002Ddead64a3d55f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from StringCalculatorTest.cs #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;3A5E30B8-2C84-471C-9E66-B7F504FC6325/f:StringCalculatorTest.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7d1d1b56_002D12b8_002D4985_002Dbc31_002Dbfbaf264f476/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from StringCalculatorTest.cs #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;3A5E30B8-2C84-471C-9E66-B7F504FC6325/f:StringCalculatorTest.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f1cf0a09_002D20b8_002D4b47_002Da70a_002Da07c979c2f9c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;TDDTest&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\mateusz.karolak\source\Szkolenie\UnitTest\TDD\TDDTest" Presentation="&amp;lt;TDDTest&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f3d18a5a_002D8338_002D495b_002D87c6_002Da2536affbffb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from StringCalculatorTest.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;3A5E30B8-2C84-471C-9E66-B7F504FC6325/f:StringCalculatorTest.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
